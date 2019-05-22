@@ -8,6 +8,7 @@
     android:fitsSystemWindows="true"
     android:orientation="vertical"
     tools:context=".MainActivity"
+    android:theme="@style/TemaSemBarra"
     tools:menu="@menu/menu_cardview">
 
     <android.support.v7.widget.Toolbar
@@ -16,6 +17,7 @@
         android:layout_height="wrap_content"
         android:background="@color/colorPrimary"
         android:elevation="4dp"
+        app:title="Genres"
         android:fitsSystemWindows="true">
 
     </android.support.v7.widget.Toolbar>

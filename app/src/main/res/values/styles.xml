@@ -11,10 +11,19 @@
     </style>
 
     <style name="TemaSemBarra" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/colorPrimarySemBarra</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDarkSemBarra</item>
+    <item name="colorAccent">@color/colorAccentSemBarra</item>
 
     </style>
+
+    <style name="TemaSemBarra2" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/CorPrimaria</item>
+        <item name="colorPrimaryDark">@color/CorPrimeiraEscura</item>
+        <item name="colorAccent">@color/color_Accent</item>
+
+    </style>
+
 </resources>

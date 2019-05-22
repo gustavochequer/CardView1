@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.menu_cardview);
         setSupportActionBar(toolbar);
+    toolbar.setNavigationIcon(R.drawable.ic_keyboard_return_black);
     }
 
     @Override

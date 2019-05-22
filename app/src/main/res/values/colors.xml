@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<color name="colorPrimary">#008577</color>
-<color name="colorPrimaryDark">#00574B</color>
-<color name="colorAccent">#D81B60</color>
-<color name="treePonts">#fff</color>
-<color name="background">#2F000000</color>
+    <color name="colorPrimary">#23DDC7</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorPrimarySemBarra">#346460</color>
+    <color name="colorPrimaryDarkSemBarra">#00574B</color>
+    <color name="colorAccentSemBarra">#D81B60</color>
+
+    <color name="CorPrimaria">#424554</color>
+    <color name="CorPrimeiraEscura">#424554</color>
+    <color name="color_Accent">#424554</color>
+
+    <color name="treePonts">#fff</color>
+    <color name="background">#2F000000</color>
 
 </resources>
