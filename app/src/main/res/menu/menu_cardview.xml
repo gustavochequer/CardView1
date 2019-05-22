@@ -15,5 +15,5 @@
         android:id="@+id/pesquisa"
         android:icon="@drawable/ic_search_black"
         app:showAsAction="ifRoom"
-        android:title="pesquisa"/> 
+        android:title="pesquisa"/>
 </menu>
